@@ -1,0 +1,14 @@
+.series-contain{
+    background: #f1f2f3;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 10px 0px;
+}
+
+.series-item{
+    text-align: center;
+}
+
+.series-p-l{
+    padding-left: 15px;
+}

@@ -1,0 +1,389 @@
+.app-container {
+    width: 100%;
+}
+
+.app-header {
+    height: 100px;
+    background: #191e38;
+    padding: 2px 16px;
+}
+
+.app-logo {
+    width: 170px;
+    position: absolute;
+    right: 20px;
+    top: 22px;
+}
+
+.app-msj-error{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 36px;
+    color: #fff;
+    background: #f44336;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.app-col {
+    padding: 15px 0px;
+    clear: both;
+    display: flow-root;
+}
+
+.app-body {
+    width: 87%;
+    margin: auto;
+    margin-top: 34px;
+}
+
+.app-col-lg-100 {
+    float: left;
+    width: 99%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-90 {
+    float: left;
+    width: 89%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-80 {
+    float: left;
+    width: 79%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-70 {
+    float: left;
+    width: 68.5%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-60 {
+    float: left;
+    width: 59%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-50 {
+    float: left;
+    width: 49%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-40 {
+    float: left;
+    width: 39%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-30 {
+    float: left;
+    width: 29%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-20 {
+    float: left;
+    width: 19%;
+    padding: 2px 2px;
+}
+
+.app-col-lg-10 {
+    float: left;
+    width: 10%;
+    padding: 2px 2px;
+}
+
+@media only screen and (max-width: 600px) {
+    .app-body {
+        width: 90%;
+        margin: auto;
+        margin-top: 34px;
+    }
+    .app-col-100 {
+        float: left;
+        width: 99%;
+        padding: 2px 2px;
+    }
+    .app-col-90 {
+        float: left;
+        width: 83%;
+        padding: 2px 2px;
+    }
+    .app-col-80 {
+        float: left;
+        width: 79%;
+        padding: 2px 2px;
+    }
+    .app-col-70 {
+        float: left;
+        width: 65%;
+        padding: 2px 2px;
+    }
+    .app-col-60 {
+        float: left;
+        width: 59%;
+        padding: 2px 2px;
+    }
+    .app-col-50 {
+        float: left;
+        width: 49%;
+        padding: 2px 2px;
+    }
+    .app-col-40 {
+        float: left;
+        width: 39%;
+        padding: 2px 2px;
+    }
+    .app-col-30 {
+        float: left;
+        width: 30%;
+        padding: 2px 2px;
+    }
+    .app-col-20 {
+        float: left;
+        width: 19%;
+        padding: 2px 2px;
+    }
+    .app-col-10 {
+        float: left;
+        width: 15%;
+        padding: 2px 2px;
+    }
+}
+
+@media only screen  and (min-width: 600px) {
+    .app-body {
+        width: 90%;
+        margin: auto;
+        margin-top: 34px;
+    }
+    .app-col-xs-100 {
+        float: left;
+        width: 99%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-90 {
+        float: left;
+        width: 83%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-80 {
+        float: left;
+        width: 79%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-70 {
+        float: left;
+        width: 65%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-60 {
+        float: left;
+        width: 59%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-50 {
+        float: left;
+        width: 49%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-40 {
+        float: left;
+        width: 39%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-30 {
+        float: left;
+        width: 30%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-20 {
+        float: left;
+        width: 19%;
+        padding: 2px 2px;
+    }
+    .app-col-xs-10 {
+        float: left;
+        width: 15%;
+        padding: 2px 2px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .app-body {
+        width: 90%;
+        margin: auto;
+        margin-top: 34px;
+    }
+    .app-col-sm-100 {
+        float: left;
+        width: 99%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-90 {
+        float: left;
+        width: 83%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-80 {
+        float: left;
+        width: 79%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-70 {
+        float: left;
+        width: 65%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-60 {
+        float: left;
+        width: 59%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-50 {
+        float: left;
+        width: 49%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-40 {
+        float: left;
+        width: 39%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-30 {
+        float: left;
+        width: 30%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-20 {
+        float: left;
+        width: 19%;
+        padding: 2px 2px;
+    }
+    .app-col-sm-10 {
+        float: left;
+        width: 15%;
+        padding: 2px 2px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .app-body {
+        width: 90%;
+        margin: auto;
+        margin-top: 34px;
+    }
+    .app-col-md-100 {
+        float: left;
+        width: 99%;
+        padding: 2px 2px;
+    }
+    .app-col-md-90 {
+        float: left;
+        width: 89%;
+        padding: 2px 2px;
+    }
+    .app-col-md-80 {
+        float: left;
+        width: 79%;
+        padding: 2px 2px;
+    }
+    .app-col-md-70 {
+        float: left;
+        width: 68%;
+        padding: 2px 2px;
+    }
+    .app-col-md-60 {
+        float: left;
+        width: 59%;
+        padding: 2px 2px;
+    }
+    .app-col-md-50 {
+        float: left;
+        width: 49%;
+        padding: 2px 2px;
+    }
+    .app-col-md-40 {
+        float: left;
+        width: 39%;
+        padding: 2px 2px;
+    }
+    .app-col-md-30 {
+        float: left;
+        width: 28%;
+        padding: 2px 2px;
+    }
+    .app-col-md-20 {
+        float: left;
+        width: 19%;
+        padding: 2px 2px;
+    }
+    .app-col-md-10 {
+        float: left;
+        width: 10%;
+        padding: 2px 2px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .app-body {
+        width: 87%;
+        margin: auto;
+        margin-top: 34px;
+    }
+    .app-col-lg-100 {
+        float: left;
+        width: 99%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-90 {
+        float: left;
+        width: 89%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-80 {
+        float: left;
+        width: 79%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-70 {
+        float: left;
+        width: 68.5%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-60 {
+        float: left;
+        width: 59%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-50 {
+        float: left;
+        width: 49%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-40 {
+        float: left;
+        width: 39%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-30 {
+        float: left;
+        width: 29%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-20 {
+        float: left;
+        width: 19%;
+        padding: 2px 2px;
+    }
+    .app-col-lg-10 {
+        float: left;
+        width: 10%;
+        padding: 2px 2px;
+    }
+}

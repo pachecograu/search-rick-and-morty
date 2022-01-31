@@ -1,0 +1,56 @@
+.characters-contain {
+    background: #f1f2f3;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 8px 11px;
+}
+
+.characters-image {
+    width: 100%;
+    height: 130px;
+    border-radius: 5px;
+    background-size: cover;
+    background-position: center;
+}
+
+.characters-button-detail-container{
+    text-align: right;
+}
+
+.characters-button{
+    background: #ddfb2f;
+    border: 0px;
+    padding: 5px 15px;
+    font-weight: 900;
+    border-radius: 5px;
+}
+
+.characters-button-paginator{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+.characters-button-container{
+    text-align: center;
+}
+
+.characters-status{
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    float: left;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+
+.Alive{
+    background: green;
+}
+
+.Dead{
+    background:red;
+}
+
+.unknown {
+    background: gray;
+}
